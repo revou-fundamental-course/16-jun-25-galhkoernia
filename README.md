@@ -4,12 +4,11 @@ Nama Proyek       : Website Portofolio Pribadi
 Teknologi        : Laravel Framework (PHP), Blade Templating, Tailwind CSS (optional), JavaScript  
 Tujuan Proyek    :  
 - Membuat website portofolio pribadi sebagai dokumentasi hasil belajar dari kelas online Revou.  
-- Menampilkan profil, karya, dan kontak secara profesional dan responsif.  
-- Melatih kemampuan pengembangan web menggunakan Laravel dan ekosistemnya.
+- Mengimplementasikan hasil belajar online pada project nyataa
 
 Fitur Utama      :  
 1. Halaman Beranda (Home) dengan banner dan greeting menggunakan JavaScript.  
-2. Halaman Profil (Profile) yang menampilkan biodata dan pengalaman.  
+2. Halaman Tentang (About) yang menampilkan biodata dan pengalaman.  
 3. Halaman Kontak (Contact) dengan form pengiriman pesan.  
 4. Navigasi sederhana dan responsif untuk semua perangkat.  
 5. Implementasi layout menggunakan Blade template Laravel.  
@@ -47,6 +46,6 @@ Semoga portofolio ini dapat menjadi nilai tambah dan dokumentasi pembelajaran ya
 
 ---
 
-Dibuat sebagai bagian dari penyelesaian kelas online Revou Batch [nomor batch].
+Dibuat sebagai bagian dari penyelesaian kelas online Revou.
 
-Tanggal dibuat: [tanggal hari ini]
+Tanggal dibuat: [03/07/2025]
