@@ -39,7 +39,7 @@ Catatan         :
 Kontak Developer :  
 Nama   : [Galuh Kurnia]  
 Email  : [galuhkoernia979@gmail.com]  
-LinkedIn / GitHub : []  
+LinkedIn / GitHub : [www.linkedin.com/in/galuh-kurnia-a25b9b325]  
 
 Terima kasih telah mengunjungi proyek ini.  
 Semoga portofolio ini dapat menjadi nilai tambah dan dokumentasi pembelajaran yang bermanfaat.

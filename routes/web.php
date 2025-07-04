@@ -4,8 +4,8 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/profile', function () {
-    return view('profile');
+Route::get('/about', function () {
+    return view('about');
 });
 
 Route::get('/contact', function () {
