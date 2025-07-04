@@ -10,9 +10,8 @@
         <h2>About the Company</h2>
         <img src="{{ asset('assets/images/instrumen_labs.png') }}" alt="About Image">
         <p>Saya seorang mahasiswa fisika yang aktif dan berkomitmen dalam pengembangan diri melalui pendidikan, organisasi,
-            dan
-            berbagai proyek praktis. Dengan latar belakang teknis, analisis sistem, serta pengembangan teknologi digital.
-            Menggabungkan logika sains dengan kreativitas dalam
+            dan berbagai proyek praktis. Dengan latar belakang teknis, analisis sistem, serta pengembangan teknologi
+            digital. Menggabungkan logika sains dengan kreativitas dalam
             membangun solusi.Aktif di kegiatan,organisasi robotika dan pengembangan website, </p>
     </section>
 
