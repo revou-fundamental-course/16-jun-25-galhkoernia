@@ -5,15 +5,19 @@
     <section class="banner">
         <img src="{{ asset('assets/images/banner_page.png') }}" alt="Banner Image">
     </section>
-    <section class="banner-text container">
-        <h1>Welcome to Our Company</h1>
-        <p id="greeting">Hi, Guest!</p>
-    </section>
-    <section class="intro">
-        <div class="container">
-            <h2>Who We Are</h2>
-            <p>Saya adalah seorang mahasiswa jurusan Fisika disalah satu Universitas Negeri yang berada di Surabaya.</p>
-            <a href="/profile" class="btn">Learn More</a>
+    <!-- Welcome Section -->
+    <section class="welcome-section container">
+        <div class="text-side">
+            <h2>Welcome to <br><span>Our Company</span></h2>
+            <p class="greeting" id="greeting">Hi, Guys!</p>
+            <div class="who-we-are">
+                <h4>WHO WE ARE</h4>
+                <p>Saya adalah seorang mahasiswa jurusan Fisika disalah satu Universitas Negeri yang berada di Surabaya.</p>
+                <a href="/profile" class="btn-learn">Learn More</a>
+            </div>
+        </div>
+        <div class="image-side">
+            <img src="{{ asset('assets/images/layer_physics.png') }}" alt="Physics" class="img-computer">
         </div>
     </section>
 @endsection
