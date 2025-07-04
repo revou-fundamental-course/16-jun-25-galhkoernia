@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README - Proyek Portofolio Laravel
 
 Nama Proyek       : Website Portofolio Pribadi  
@@ -49,3 +50,7 @@ Semoga portofolio ini dapat menjadi nilai tambah dan dokumentasi pembelajaran ya
 Dibuat sebagai bagian dari penyelesaian kelas online Revou.
 
 Tanggal dibuat: [03/07/2025]
+=======
+"# Project-Kelas-RevoU" 
+"# 16-jun-25-galhkoernia" 
+>>>>>>> 2a52bbf711bcdea7a213160cbd235943ceb080ac
