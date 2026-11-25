@@ -282,13 +282,7 @@ Fitur-fitur tersebut merupakan pengembangan lanjutan dan **belum menjadi bagian 
 
 ## 👨‍💻 Developer
 
-**Galuh Kurnia**
-
-Email: `galuhkoernia979@gmail.com`
-
-GitHub: [@galhkoernia](https://github.com/galhkoernia)
-
-LinkedIn: [linkedin.com/in/galuh-kurnia-a25b9b325](https://www.linkedin.com/in/galuh-kurnia-a25b9b325)
+**Galuh Kurnia Pratama**
 
 ---
 
